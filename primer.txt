@@ -1,8 +1,5 @@
 npr
 laki strajk
 mare care
-<<<<<<< HEAD
 nesto nesto 
-=======
 askjdhask
->>>>>>> main
