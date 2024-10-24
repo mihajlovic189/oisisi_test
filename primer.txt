@@ -1,5 +1,11 @@
 npr
 laki strajk
+<<<<<<< HEAD
 mare careasdasd 
 asldjhaskdhaskd
 askjdhask
+=======
+mare care
+nesto nesto 
+askjdhask
+>>>>>>> main
